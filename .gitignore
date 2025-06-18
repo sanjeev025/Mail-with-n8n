@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# PyCharm/IDEA
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# pytest
+.pytest_cache/
+
+# Ruff (linter)
+.ruff_cache/
+
+# mypy (type checker)
+.mypy_cache/
+
+# Environment variables
+.env
+
+# Optional: logs, test results, etc.
+*.log
+coverage/
+
+vector_store/
+
+business_agent.log
